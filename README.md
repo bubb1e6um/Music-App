@@ -29,9 +29,8 @@ The project is deployed using **GitHub Pages** and is intended as a demonstratio
 The project consists of static frontend files:
 
 * `index.html` — main HTML entry point
-* `css/` — stylesheets
-* `js/` — JavaScript logic (API requests, playback control, UI interaction)
-* `assets/` (if present) — static assets such as images or icons
+* `style.css` — stylesheets
+* `script.js` — JavaScript logic (API requests, playback control, UI interaction)
 
 No build tools or frameworks are required.
 
