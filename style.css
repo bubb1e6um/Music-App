@@ -248,7 +248,7 @@ body.light-theme .play-btn-lg { color: white; background: black; box-shadow: 0 5
 }
 
 /* === МОБИЛЬНАЯ АДАПТАЦИЯ === */
-@media (max-width: 600px) {
+@media (max-width: 767px) {
     body {
         background-color: var(--bg-black);
         align-items: flex-start; /* Прижимаем к верху */
